@@ -1,0 +1,177 @@
+/* font_family */
+@font-face { font-family: Knockout-reg; 
+    src: url('../Fonts/Knockout/Knockout-31.otf'); 
+}
+@font-face { font-family: Knockout-bold; 
+    src: url('../Fonts/Knockout/Knockout-51.otf'); 
+}
+@font-face { font-family: SpeedGrams; 
+    src: url('../Fonts/Speed Grams.otf'); 
+}
+@font-face{
+    font-family: kd-william; 
+    src: url('../Fonts/kd_william/KDWilliam-Regular.otf');
+}
+
+
+/* title and header */
+#title{
+    background-color: black;
+    height: 100px;
+
+}
+#logo_image {
+    position: absolute;
+    /* Position the image in the middle of its container. */
+    /* Hack*/
+    top: -9999px;
+    right: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    margin: auto;
+    min-height: 100%;
+    height: 100%;
+  }
+#header{
+position: relative;
+overflow: hidden;
+height: 60vh;
+}
+/* part-2 css part */
+#part-2{
+    position: relative;
+}
+#header{
+    background-color: black;
+    height: 180px;
+}
+.bg-image {
+    height: 70vh;
+    background-image: url("../Resource/second.jpg");
+    /* filter: grayscale(60%);  */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 100px;
+    width: 100%;
+    }
+#SubmitinfoDiv{
+    color:#00A1C0;
+    font-family: 'Knockout-reg';
+}
+#bg-text {
+filter: none;
+text-align: center;
+position: relative;
+font-family: 'Knockout-reg';
+height: 600px;
+font-size: 2.2rem;
+top: 50%;
+left: 50%;
+padding: 30px 30px 30px 0;
+transform: translate(-50%, -50%);
+color:#00A1C0;
+}
+/* #text_22{
+    padding: 100px 30px 30px 30px;
+} */
+.pose{
+    color:#fff;
+    padding: 20px 10px 10px 0;
+    font-size: 1.8rem;
+    font-family: 'Knockout-reg';
+    font-weight: 500;
+}
+.btn-1{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 1.7rem;
+    font-family: 'Knockout-reg';
+}
+
+hr{
+    height:4px;
+    border-width:100%;
+    color:gray;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Knockout-reg';
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 500;
+    color :rgb(255, 255, 255);
+}
+h3{
+    color :gray;
+    font-family: "Knockout-reg";
+    font-size: 1.5rem;
+
+}
+ /* part-3 css parts */
+.part_3{
+    background-color: black;
+}
+#arrow{
+    height: 30;
+    padding: 0;
+}
+.img-3{
+    width: 500px;
+    height: 100px;
+}
+.part-3-cont{
+    padding: 0px 250px 0px 30px;
+    color:gray;
+}
+#pr3{
+    padding-top: 25px;
+    color:gray;
+}
+.btn-part-3{
+    position:relative;
+    margin: auto;
+    width: 40%;
+    padding-bottom: 20px;
+    font-family: 'Knockout-reg';
+
+}
+.btn-lg{
+    height: 80px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-family: 'Knockout-reg';
+}
+/* part-4 css part */
+.part-4{
+    background-color: black;
+    height: auto;
+}
+h2{
+    color :rgb(255, 255, 255);
+    font-family: 'Knockout-bold';
+    display: inline;
+}
+.pos-4{
+    padding:25px 80px;
+    display: inline;
+}
+h4{
+    color:gray;
+    font-size: 1.3rem;
+    font-family: 'Knockout-reg';
+    display: inline;
+}
+.img-4{
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+}
