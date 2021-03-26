@@ -1,0 +1,33 @@
+{%extends 'base.html'%}
+
+{% block title %}Account Created{% endblock %}
+
+{% block CSS %}
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/acount.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<div class='card'>
+    <div class='p-3'>
+        <div class='row text-center  border-bottom pb-3'>
+            <h2 class = 'container-fluid text-fblue'>Thank you for signing up.</h2>
+        </div>
+        <div class="row">
+            <div class='p-3 text-center col-md-12 col-xl-8'>
+                <p>Please check your inbox to complete the registration process, the confirmation email may be in your spam folder.</p>
+                <p>Click Login to continue registration</p>  
+                <div class="text-center">
+                    <a href="{% url 'login'%}">
+                    <div class="button">Login</div>
+                    </a>
+                </div>
+            </div>
+            <div class = 'd-none d-xl-block col-xl-4 border-left p-3'>
+                <h1>partner with industry mentors from Fortune 500 companies today!</h1>
+            </div>
+        </div>
+    </div>
+  </div>
+{% endblock %}
