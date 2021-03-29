@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 from pathlib import Path
 import os
 import environ
+
 env = environ.Env(
     # set casting, default value
     DEBUG=(bool, False)
@@ -32,7 +33,7 @@ SECRET_KEY = env('SECRET_KEY') #'7%637%+bzn69gv!+n7%^5etv6*rjq_&1u2shvy(4x@&1ox0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['134.122.32.255','127.0.0.1']
+ALLOWED_HOSTS = env('ALLOWED_HOSTS')
 
 
 # Application definition
@@ -85,9 +86,9 @@ WSGI_APPLICATION = 'Streamcicle_Prelaunch.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': env('DB_NAME'),#'postgres',
-        'USER': env('DB_USER'),#'mary',
-        'PASSWORD':  env('DB_PASSWORD'), #'1368',
+        'NAME': env('DB_NAME'),
+        'USER': env('DB_USER'),
+        'PASSWORD':  env('DB_PASSWORD'),
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
@@ -130,6 +131,8 @@ AUTH_USER_MODEL = 'accounts.StreamcicleSubscribers'
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST = env('EMAIL_HOST')#'securemail.rebel.com'
@@ -142,4 +145,4 @@ EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')#'S+r3@m<!<l3'
 #     os.path.join(BASE_DIR, 'static/')
 # ]
 #'/home/ms/Desktop/Streamcicle/src/static'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+#STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
