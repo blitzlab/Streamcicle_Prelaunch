@@ -57,7 +57,7 @@ def signup(request):
             to_email = str(email)
             to_email = form.cleaned_data.get('email')
             email = EmailMultiAlternatives(
-                            subject, message, to=[to_email], bcc=['mary.s1368@gmail.com'])
+                            subject, message, to=[to_email], bcc=['cris@icechunk.ca'])
             email.content_subtype = "html"
             email.mixed_subtype = 'related'
             img_path = './static/Resource/template_img.png'

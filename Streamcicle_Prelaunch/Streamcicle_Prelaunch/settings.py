@@ -131,7 +131,7 @@ AUTH_USER_MODEL = 'accounts.StreamcicleSubscribers'
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+#STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
@@ -141,8 +141,8 @@ EMAIL_PORT = 465
 EMAIL_HOST_USER = env('EMAIL_HOST_USER')#'info@streamcicle.com'
 EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')#'S+r3@m<!<l3'
 
-# STATICFILES_DIRS = [
+#STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static/')
-# ]
+#]
 #'/home/ms/Desktop/Streamcicle/src/static'
-#STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')

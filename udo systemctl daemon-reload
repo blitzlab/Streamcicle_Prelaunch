@@ -1,0 +1,414 @@
+-- Logs begin at Sun 2021-03-28 21:38:21 UTC, end at Tue 2021-03-30 09:54:13 UTC. --
+Mar 29 01:40:41 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:40:41 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2151]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:40:41 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2151]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:40:41 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:40:41 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2237]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2237]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2238]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2238]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2239]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2239]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2240]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2240]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2241]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2241]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Start request repeated too quickly.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:43:42 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Gunicorn daemon for Django Project.[0m
+Mar 29 01:49:10 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:49:10 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2314]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:49:10 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2314]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:49:10 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:49:10 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:49:59 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:49:59 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2357]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:49:59 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2357]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:49:59 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:49:59 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:52:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:52:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2425]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:52:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2425]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:52:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:52:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2510]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2510]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2511]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2511]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2512]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2512]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2513]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2513]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2515]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2515]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Start request repeated too quickly.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 01:55:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Gunicorn daemon for Django Project.[0m
+Mar 29 02:02:32 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:02:32 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2693]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:02:32 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2693]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:02:32 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:02:32 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:04:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:04:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2759]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:04:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2759]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:04:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:04:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:08:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:08:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2898]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:08:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[2898]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:08:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:08:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:10:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:10:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3041]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:10:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3041]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:10:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:10:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:15:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:15:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3175]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:15:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3175]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:15:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:15:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:17:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:17:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3308]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:17:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3308]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:17:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:17:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:25:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:25:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3481]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:25:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3481]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:25:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:25:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:29:04 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:29:04 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3656]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:29:04 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3656]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:29:04 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:29:04 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:42:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:42:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3928]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 29 02:42:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[3928]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such file or directory[0m
+Mar 29 02:42:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 29 02:42:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:44:20 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31m/etc/systemd/system/gunicorn.service:5: RequiresMountsFor= path is not absolute, ignoring: Prelaunch/Prelaunch_Env/bin[0m
+Mar 29 02:44:20 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31m/etc/systemd/system/gunicorn.service:13: WorkingDirectory= path is not absolute: Prelaunch/Streamcicle_Prelaunch[0m
+Mar 29 02:44:20 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Unit configuration has fatal error, unit will not be started.[0m
+Mar 29 02:47:39 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:47:39 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4117]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:47:39 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4117]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:47:39 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:47:39 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 02:48:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 02:48:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4159]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 02:48:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4159]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 02:48:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 02:48:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 03:11:55 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31m/etc/systemd/system/gunicorn.service:5: RequiresMountsFor= path is not absolute, ignoring: ~/Prelaunch/Prelaunch_Env/bin[0m
+Mar 29 03:11:55 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31m/etc/systemd/system/gunicorn.service:13: WorkingDirectory= path is not absolute: ~/Prelaunch/Streamcicle_Prelaunch[0m
+Mar 29 03:11:55 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Unit configuration has fatal error, unit will not be started.[0m
+Mar 29 03:14:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 03:14:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4798]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 03:14:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[4798]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 03:14:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 03:14:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 04:24:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 04:24:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[6443]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 04:24:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[6443]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 04:24:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 04:24:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 04:25:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 04:25:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[6483]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 04:25:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[6483]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 04:25:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 04:25:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 20:31:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 20:31:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32441]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 20:31:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32441]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 20:31:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 20:31:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 20:34:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 20:34:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32627]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 20:34:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32627]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 20:34:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 20:34:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 20:43:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 20:43:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32797]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 20:43:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32797]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 20:43:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 20:43:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 20:43:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:14: Ignoring unknown escape sequences: "\"[0m
+Mar 29 20:43:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:21: Missing '=', ignoring line.[0m
+Mar 29 20:43:18 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 20:43:18 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32835]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 20:43:18 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32835]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 20:43:18 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 20:43:18 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 29 20:43:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:14: Ignoring unknown escape sequences: "\"[0m
+Mar 29 20:43:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:21: Missing '=', ignoring line.[0m
+Mar 29 20:51:40 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:14: Ignoring unknown escape sequences: "\"[0m
+Mar 29 20:51:40 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:21: Missing '=', ignoring line.[0m
+Mar 29 20:51:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 29 20:51:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32990]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Mar 29 20:51:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[32990]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such process[0m
+Mar 29 20:51:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Mar 29 20:51:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 01:31:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 30 01:31:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[38539]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 01:31:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[38539]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such file or directory[0m
+Mar 30 01:31:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 01:31:11 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 01:35:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started Gunicorn daemon for Django Project.
+Mar 30 01:35:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 01:35:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 01:37:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 01:37:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[38898]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 01:37:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[38898]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 01:37:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 01:37:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 01:54:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 01:54:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[39566]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 01:54:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[39566]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 01:54:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 01:54:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 01:54:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 01:54:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 01:54:33 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:44:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 08:44:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 08:44:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:44:56 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 08:44:56 ubuntu-s-1vcpu-1gb-tor1-01 systemd[46607]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 08:44:56 ubuntu-s-1vcpu-1gb-tor1-01 systemd[46607]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 08:44:56 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 08:44:56 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:53:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 08:53:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 08:53:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:54:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 08:54:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 08:54:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:54:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 08:54:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 08:54:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 08:54:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 08:56:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[46909]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 08:56:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[46909]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /Prelaunch/Prelaunch_Env/bin/gunicorn: No such file or directory[0m
+Mar 30 08:56:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 08:56:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 08:56:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:25 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:26 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:26 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:26 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:26 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:37 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:37 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:37 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 08:56:37 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:03:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:03:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:03:06 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:03:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:03:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:03:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:03:57 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:04:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47153]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:04:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47153]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:04:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:04:08 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:24 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:24 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:24 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:04:24 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:10:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:10:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47249]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:10:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47249]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:10:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:10:43 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:11:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:11:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:11:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:11:02 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:03 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:12:03 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:12:03 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:12:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:14 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:15 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:15 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:15 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:15 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:12:36 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:28:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:28:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:28:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:28:19 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:30:21 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:30:21 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:30:21 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:30:21 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47486]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47486]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47487]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47487]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47491]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47491]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47499]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Changing to the requested working directory failed: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[47499]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step CHDIR spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: No such file or directory[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=200/CHDIR[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Start request repeated too quickly.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:30:53 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start gunicorn.service.[0m
+Mar 30 09:39:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:23 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:39:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:39:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:39:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:39:48 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:46:50 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:46:50 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:46:50 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:46:50 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:47:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:47:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:47:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:47:12 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48002]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48002]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:45 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48003]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48003]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48005]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48005]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48006]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48006]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48009]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48009]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Start request repeated too quickly.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:47:46 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start gunicorn.service.[0m
+Mar 30 09:49:09 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:09 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:09 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:09 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:49:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48068]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:49:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48068]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:49:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:49:17 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:49:27 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:27 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:27 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:49:27 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:16 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:1: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:2: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:3: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:30 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m/etc/systemd/system/gunicorn.service:4: Assignment outside of section. Ignoring.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48158]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48158]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48163]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48163]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn.service.
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48165]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to execute command: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[48165]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step EXEC spawning /home/streamcicle_prelaunch/Prelaunch/Prelaunch_env/bin/gunicorn: Permission denied[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Start request repeated too quickly.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
+Mar 30 09:53:38 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start gunicorn.service.[0m

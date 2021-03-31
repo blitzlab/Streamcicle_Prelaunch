@@ -1,0 +1,12 @@
+it]
+Description=gunicorn daemon
+After=network.target
+
+[Service]
+User=streamcicle_prelaunch
+Group=www-data
+WorkingDirectory=/home/streamcicle_prelaunch/Prelaunch/Streamcicle_Prelaunch/Streamcicle_Prelaunch
+ExecStart=/home/streamcicle_prelaunch/Prelaunch_env/bin/gunicorn --access-logfile - --workers 3 --bind unix:/home/streamcicle_prelaunch/Prelaunch/Streamcicle_Prelaunch/Streamcicle_Prelaunch/myproject/myproject.sock myproject.wsgi:application
+
+[Install]
+WantedBy=multi-user.target

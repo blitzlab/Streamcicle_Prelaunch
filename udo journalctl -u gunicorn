@@ -1,0 +1,9 @@
+[0;1;31m●[0m gunicorn.service - gunicorn daemon
+     Loaded: loaded (/etc/systemd/system/gunicorn.service; enabled; vendor preset: enabled)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Tue 2021-03-30 12:56:07 UTC; 12s ago
+TriggeredBy: [0;1;32m●[0m gunicorn.socket
+   Main PID: 51417 (code=exited, status=203/EXEC)
+
+Mar 30 12:56:07 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Started gunicorn daemon.
+Mar 30 12:56:07 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=203/EXEC[0m
+Mar 30 12:56:07 ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m
